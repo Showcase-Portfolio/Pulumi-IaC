@@ -1,0 +1,3 @@
+name: IaC-Pulumi
+description: A minimal AWS C# Pulumi program
+runtime: dotnet
